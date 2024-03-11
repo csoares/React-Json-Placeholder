@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Route } from "react-router-dom";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 import { Container, Row, Col, Navbar, Nav } from "react-bootstrap";
-import About from "./About";
+import About from "./components/About";
 import Home from "./components/Home";
 import ListTasks from "./components/ListTasks";
 
